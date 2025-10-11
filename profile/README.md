@@ -9,7 +9,7 @@ We design toolkits, workflows, and learning experiences that make working with d
 
 | Key                                  | Value                                                                                  |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [DataJourney](https://github.com/DataJourneyHQ/DataJourney)               | Reproducible design-first workflows for PyData ecosystems using GitHub Actions.                           |
+| [DataJourney](https://github.com/DataJourneyHQ/DataJourney)               | Reproducible design-first workflows for PyData ecosystem          |
 | [Lean Launch Mate](https://llmate.datajourneyhq.com/)                       | End-to-end platform to help data-driven founders test ideas, collect insights, and iterate faster.     |
 | **Open Education Resources**             | We design workshops and guides focused on production-ready software powered by open source and LLM abstraction |
 
