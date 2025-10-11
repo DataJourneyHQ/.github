@@ -1,10 +1,10 @@
-# Welcome to DataJourneyHQ 💚
+## Welcome to DataJourneyHQ 💚
 
 `Where Open Source meets Design, Business, Community, and Data!`
 
 We design toolkits, workflows, and learning experiences that make working with data more reproducible, ethical, and human-centred.
 
-# What We Build 🛠️
+## What We Build 🛠️
 
 
 | Project                                  | Description                                                                                  |
