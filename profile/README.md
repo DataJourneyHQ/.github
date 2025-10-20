@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/profile/DJHQ_mission.svg" alt="DJHQ mission" style="width:650px; height:600px;">
+  <img src="/profile/DJHQ_mission.svg" alt="DJHQ mission" style="width:640px; height:600px;">
 </p>
 
 ## Our home ground 🛠️
