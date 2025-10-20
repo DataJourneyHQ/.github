@@ -1,0 +1,57 @@
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define gradients for a modern look -->
+  <defs>
+    <radialGradient id="designGrad" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#FF6B9D;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#FF6B9D;stop-opacity:0.3" />
+    </radialGradient>
+    <radialGradient id="businessGrad" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#4ECDC4;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#4ECDC4;stop-opacity:0.3" />
+    </radialGradient>
+    <radialGradient id="communityGrad" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#FFD93D;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#FFD93D;stop-opacity:0.3" />
+    </radialGradient>
+    <radialGradient id="dataGrad" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#A78BFA;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:0.3" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="800" fill="#1a1a2e"/>
+  
+  <!-- Design Circle (Top) -->
+  <circle cx="400" cy="280" r="160" fill="url(#designGrad)" stroke="#FF6B9D" stroke-width="2.5"/>
+  
+  <!-- Business Circle (Right) -->
+  <circle cx="500" cy="440" r="160" fill="url(#businessGrad)" stroke="#4ECDC4" stroke-width="2.5"/>
+  
+  <!-- Community Circle (Left) -->
+  <circle cx="300" cy="440" r="160" fill="url(#communityGrad)" stroke="#FFD93D" stroke-width="2.5"/>
+  
+  <!-- Data Circle (Bottom) -->
+  <circle cx="400" cy="520" r="160" fill="url(#dataGrad)" stroke="#A78BFA" stroke-width="2.5"/>
+  
+  <!-- Central Open-Source Circle -->
+  <circle cx="400" cy="400" r="70" fill="#16213e" stroke="#0FFF50" stroke-width="3.5" opacity="0.95"/>
+  
+  <!-- Labels positioned nicely in non-overlapping areas -->
+  <text x="400" y="165" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#FF6B9D" text-anchor="middle">DESIGN-FIRST</text>
+  <text x="400" y="190" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#FF6B9D" text-anchor="middle">AI</text>
+  
+  <text x="575" y="380" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#4ECDC4" text-anchor="middle">BUSINESS</text>
+  
+  <text x="225" y="380" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#FFD93D" text-anchor="middle">COMMUNITY</text>
+  
+  <text x="400" y="640" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#A78BFA" text-anchor="middle">DATA</text>
+  
+  <!-- Central Label -->
+  <text x="400" y="395" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0FFF50" text-anchor="middle">OPEN</text>
+  <text x="400" y="418" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0FFF50" text-anchor="middle">SOURCE</text>
+  
+  <!-- Tagline -->
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">DataJourneyHQ</text>
+  <text x="400" y="765" font-family="Arial, sans-serif" font-size="17" fill="#94a3b8" text-anchor="middle" font-style="italic">Where Simplicity Meets Functionality</text>
+</svg>
