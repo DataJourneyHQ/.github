@@ -6,7 +6,7 @@
 
 ## Our home ground 🛠️
 
-| Focus | Project | What it helps you do |
+| Type/Focus | Project | What it helps you do |
 | --- | --- | --- |
 | **Tool** | [🛠️ DataJourney](https://github.com/DataJourneyHQ/DataJourney) | Build reproducible, design-first workflows for the PyData ecosystem. |
 | **Tool** | [📋 List GitHub Models](https://github.com/DataJourneyHQ/list-github-models) | Catalogue available GitHub Models and their capabilities daily with a GitHub Action. |
