@@ -10,9 +10,9 @@ Learning, open-source tools and practical AI.
 
 | Focus | Project | What it helps you do |
 | --- | --- | --- |
-| **Learn** | [📚 DataJourneyHQ Academy](https://academy.datajourneyhq.com/) | Build production-ready AI systems through coaching, workshops and guides grounded in open source. |
-| **Learn** | [💻 Academy Demos](https://github.com/DataJourneyHQ/DemoWorld) | Explore real-world AI systems combining deterministic workflows with LLM-driven decisions. |
-| **Build** | [🛠️ DataJourney](https://github.com/DataJourneyHQ/DataJourney) | Build reproducible, design-first workflows for the PyData ecosystem. |
-| **Build** | [📋 List GitHub Models](https://github.com/DataJourneyHQ/list-github-models) | Catalogue available GitHub Models and their capabilities daily with a GitHub Action. |
-| **Apply** | [🚀 LLMate — Lean Launch Mate](https://llmate.datajourneyhq.com/) | Plan your tools, architecture and timelines as an early-stage founder. |
-| **Apply** | [🧾 Bill se Khata](https://chatgpt.com/plugins/plugins_6a95718797008191b2d849c8d95779c8) | Turn printed or handwritten Indian receipts and invoices into an itemised Excel ledger with GST, reconciliation checks, spend analytics and a human-review queue. |
+| **Tool** | [🛠️ DataJourney](https://github.com/DataJourneyHQ/DataJourney) | Build reproducible, design-first workflows for the PyData ecosystem. |
+| **Tool** | [📋 List GitHub Models](https://github.com/DataJourneyHQ/list-github-models) | Catalogue available GitHub Models and their capabilities daily with a GitHub Action. |
+| **Tool** | [🚀 LLMate — Lean Launch Mate](https://llmate.datajourneyhq.com/) | Plan your tools, architecture and timelines as an early-stage founder. |
+| **Discover** | [📚 DataJourneyHQ Academy](https://academy.datajourneyhq.com/) | Build production-ready AI systems through coaching, workshops and guides grounded in open source. |
+| **Retain** | [💻 Academy Demos](https://github.com/DataJourneyHQ/DemoWorld) | Explore real-world AI systems combining deterministic workflows with LLM-driven decisions. |
+| **Usecase** | [🧾 Bill se Khata](https://chatgpt.com/plugins/plugins_6a95718797008191b2d849c8d95779c8) | Turn printed or handwritten Indian receipts and invoices into an itemised Excel ledger with GST, reconciliation checks, spend analytics and a human-review queue. |
