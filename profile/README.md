@@ -1,12 +1,10 @@
-<!-- <p align="center">
+<p align="center">
   <img src="/profile/DJHQ_mission.svg" alt="DJHQ mission" style="width:640px; height:600px;">
-</p> -->
+</p>
 
 
 
 ## Our home ground 🛠️
-
-Learning, open-source tools and practical AI.
 
 | Focus | Project | What it helps you do |
 | --- | --- | --- |
