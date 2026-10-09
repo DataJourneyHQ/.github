@@ -9,7 +9,7 @@
 | Type/Focus | Project | What it helps you do |
 | --- | --- | --- |
 | **Tool** | [🛠️ DataJourney](https://github.com/DataJourneyHQ/DataJourney) | Build reproducible, design-first workflows for the PyData ecosystem. |
-| **Tool** | [Retired 📋 List GitHub Models](https://github.com/DataJourneyHQ/list-github-models) | Catalogue available GitHub Models and their capabilities daily with a GitHub Action. |
+| **Tool Retired** | [📋 List GitHub Models](https://github.com/DataJourneyHQ/list-github-models) | Catalogue available GitHub Models and their capabilities daily with a GitHub Action. |
 | **Tool** | [🚀 LLMate — Lean Launch Mate](https://llmate.datajourneyhq.com/) | Plan your tools, architecture and timelines as an early-stage founder. |
 | **Discover** | [📚 DataJourneyHQ Academy](https://academy.datajourneyhq.com/) | Build production-ready AI systems through coaching, workshops and guides grounded in open source. |
 | **Retain** | [💻 Academy Demos](https://github.com/DataJourneyHQ/DemoWorld) | Explore real-world AI systems combining deterministic workflows with LLM-driven decisions. |
